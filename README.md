@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thayuran&label=Profile%20views&color=0e75b6&style=flat" alt="thayuran" /> </p>
 
-- 🌱 I’m currently learning **Express JS**
+- 🌱 I’m currently learning **Angular JS**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java** **C#**
 
 - 📫 How to reach me **thayuthayuran@gmail.com**
 
